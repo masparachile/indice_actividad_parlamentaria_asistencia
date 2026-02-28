@@ -1,157 +1,157 @@
-id_diputado,nombre_completo,pct_asistencia_ponderada,rank_asistencia,puntos_obtenidos,puntos_posibles,sesiones_consideradas,fecha_inicio_activa,fecha_fin_activa,status_2025,nota_status,fuente_status,pct_cobertura_registro,sesiones_no_evaluable,flag_cobertura,disclaimer_cobertura,publicar_en_ranking
-971,Bernardo Berger Fett,100.0,1,123.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-999,Jorge Rathgeb Schifferli,100.0,2,123.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1034,Félix González Gatica,100.0,3,123.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1046,Andrés Longton Herrera,100.0,4,123.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1050,Miguel Mellado Suazo,100.0,5,123.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1106,Miguel Ángel Becker Alvear,100.0,6,123.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1111,Fernando Bórquez Montecinos,100.0,7,123.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1127,Lorena Fries Monleón,100.0,8,123.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1182,Sebastián Videla Castillo,100.0,9,123.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-917,Gastón Von Mühlenbrock Zamora,99.187,10,122.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1044,Raúl Leiva Carvajal,99.187,11,122.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1059,Ximena Ossandón Irarrázabal,99.187,12,122.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1099,Jaime Araya Guerrero,99.187,13,122.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1121,Eduardo Cornejo Lagos,99.187,14,122.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1132,Jorge Guzmán Zepeda,99.187,15,122.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1144,Christian Matheson Villán,99.187,16,122.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1170,Luis Sánchez Ossa,99.187,17,122.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1185,Arturo Barrios Oteíza,98.837,18,85.0,86.0,86,2025-01-06,2025-12-17,,,,69.919,37,cobertura_critica,Cobertura incompleta del origen: 37 sesiones sin registro. El % se calcula excluyendo esos casos (No evaluable).,0
-953,Frank Sauerbaum Muñoz,98.374,19,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-975,Daniella Cicardini Milla,98.374,20,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1049,Cosme Mellado Pino,98.374,21,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1068,Camila Rojas Valderrama,98.374,22,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1126,Felipe Donoso Castro,98.374,23,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1133,Juan Irarrázaval Rossel,98.374,24,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1138,Henry Leal Bizama,98.374,25,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1140,Daniel Lilayu Vivanco,98.374,26,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1165,Agustín Romero Leiva,98.374,27,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1174,Marco Antonio Sulantay Olivares,98.374,28,121.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1184,Roberto Celedón Fernández,98.333,29,118.0,120.0,120,2025-01-08,2025-12-17,Reemplazante,Asume tras fallecimiento de Bulnes (fin 2024),Camara.cl,100.0,0,,,1
-1013,Alejandro Bernales Maldonado,97.561,30,120.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1051,Claudia Mix Jiménez,97.561,31,120.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1103,Danisa Astudillo Peiretti,97.561,32,120.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1113,Marta Bravo Salinas,97.561,33,120.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1122,Luis Alberto Cuello Peña y Lillo,97.561,34,120.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1142,Daniel Manouchehri Lobos,97.561,35,120.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1156,Hernán Palma Pérez,97.561,36,120.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1169,Clara Sagardía Cabezas,97.561,37,120.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1175,Cristián Tapia Ramos,97.561,38,120.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-74,Jaime Naranjo Ortiz,96.748,39,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-803,René Alinco Bustos,96.748,40,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1028,Eduardo Durán Salinas,96.748,41,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1062,Joanna Pérez Olea,96.748,42,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1073,Juan Santana Castillo,96.748,43,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1110,Carlos Bianchi Chelech,96.748,44,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1118,Ricardo Cifuentes Lillo,96.748,45,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1143,Cristóbal Martínez Ramírez,96.748,46,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1168,Jorge Saffirio Espinoza,96.748,47,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1178,Héctor Ulloa Aguilera,96.748,48,119.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1003,Renzo Trisotti Martínez,95.935,49,118.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1017,Álvaro Carter Fernández,95.935,50,118.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1056,Emilia Nuyado Ancapichún,95.935,51,118.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1139,Enrique Lee Flores,95.935,52,118.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1167,Jaime Sáez Quiroz,95.935,53,118.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1171,Emilia Schneider Videla,95.935,54,118.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1177,Carolina Tello Rojas,95.935,55,118.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1179,Alberto Undurraga Vicuña,95.935,56,118.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-815,Sergio Bobadilla Muñoz,95.122,57,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1002,Leonardo Soto Ferrada,95.122,58,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1009,Jorge Alessandri Vergara,95.122,59,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1038,Marcos Ilabaca Cerda,95.122,60,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1075,Diego Schalper Sepúlveda,95.122,61,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1081,Francisco Undurraga Gazitúa,95.122,62,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1131,Mauro González Villarroel,95.122,63,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1162,Matías Ramírez Pascal,95.122,64,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1173,Daniela Serrano Salazar,95.122,65,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1183,Flor Weisse Novoa,95.122,66,117.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1040,Harry Jürgensen Rundshagen,94.309,67,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1065,Guillermo Ramírez Diez,94.309,68,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1069,Leonidas Romero Sáez,94.309,69,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1077,Raúl Soto Mardones,94.309,70,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1082,Cristóbal Urruticoechea Ríos,94.309,71,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1087,Gael Yeomans Araya,94.309,72,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1096,María Candelaria Acevedo Sáez,94.309,73,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1114,Félix Bugueño Sotelo,94.309,74,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1134,Andrés Jouannet Valderrama,94.309,75,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1137,Tomás Lagomarsino Guzmán,94.309,76,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1157,Marlene Pérez Cartes,94.309,77,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1181,Nelson Venegas Salazar,94.309,78,116.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1019,José Miguel Castro Bascuñán,93.496,79,115.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1031,Juan Fuenzalida Cobo,93.496,80,115.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1070,Patricio Rosas Barrientos,93.496,81,115.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1125,Viviana Delgado Riquelme,93.496,82,115.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1146,José Carlos Meza Pereira,93.496,83,115.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1149,Carla Morales Maldonado,93.496,84,115.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1166,Natalia Romero Talguia,93.496,85,115.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-989,Joaquín Lavín León,92.683,86,114.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1105,Héctor Barría Angulo,92.683,87,114.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1112,Ana María Bravo Castro,92.683,88,114.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1116,Felipe Camaño Cárdenas,92.683,89,114.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1119,Sara Concha Smith,92.683,90,114.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1148,Javiera Morales Alvarado,92.683,91,114.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1159,Lorena Pizarro Sierra,92.683,92,114.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1160,Alejandra Placencia Cabello,92.683,93,114.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1163,Marcia Raphael Mora,92.683,94,114.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1015,Jorge Brito Hasbún,91.87,95,113.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1039,Pamela Jiles Moreno,91.87,96,113.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1053,Cristhian Moreira Barros,91.87,97,113.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-990,Daniel Melo Contreras,91.057,98,112.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1048,Carolina Marzán Pinto,91.057,99,112.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1067,Hugo Rey Martínez,91.057,100,112.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1100,Cristián Araya Lerdo de Tejada,91.057,101,112.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1102,Roberto Arroyo Muñoz,91.057,102,112.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1109,Gustavo Benavente Vergara,91.057,103,112.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1141,Luis Malla Valenzuela,91.057,104,112.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-976,Juan Antonio Coloma Álamos,90.244,105,111.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1058,Maite Orsini Pascal,90.244,106,111.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1076,Alexis Sepúlveda Soto,90.244,107,111.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1098,Yovana Ahumada Palma,90.244,108,111.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1151,Camila Musante Müller,90.244,109,111.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1155,Rubén Darío Oyarzo Figueroa,90.244,110,111.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1012,Boris Barrera Moreno,89.431,111,110.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1037,Diego Ibáñez Cotroneo,89.431,112,110.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1108,Juan Carlos Beltrán Silva,89.431,113,110.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1145,Karen Medina Vásquez,89.431,114,110.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1158,Víctor Alejandro Pino Fuentes,89.431,115,110.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1172,Stephan Schubert Rubio,89.431,116,110.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1176,Hotuiti Teao Drago,89.431,117,110.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1027,Jorge Durán Espinoza,88.618,118,109.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1054,Francesca Muñoz González,88.618,119,109.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1147,Helia Molina Milman,88.618,120,109.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-991,Vlado Mirosevic Verdugo,87.805,121,108.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1030,Camila Flores Oporto,87.805,122,108.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1135,Johannes Kaiser Barents-Von Hohenhagen,87.805,123,108.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1150,Benjamín Moreno Bascur,86.992,124,107.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1025,Catalina Del Real Mihovilovic,86.179,125,106.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1036,Tomás Hirsch Goldschmidt,86.179,126,106.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1136,Paula Labra Besserer,86.179,127,106.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1074,Marisela Santibáñez Novoa,85.366,128,105.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1129,Andrés Giordano Salazar,85.366,129,105.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1164,Marcela Riquelme Aliaga,85.366,130,105.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-872,Jaime Mulet Martínez,84.553,131,104.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1022,Sofía Cid Versalovic,84.553,132,104.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1097,Eric Aedo Jeldres,84.553,133,104.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1107,María Francisca Bello Campos,84.553,134,104.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1128,Ana María Gazmuri Vieira,83.74,135,103.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1124,Tomás De Rementería Venegas,83.333,136,30.0,36.0,36,2025-01-06,2025-04-23,Nombrado_senador,Deja Cámara por nombramiento en Senado,Camara.cl,100.0,0,,,1
-1123,Gonzalo De la Carrera Correa,82.927,137,102.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1152,Gloria Naveillan Arriagada,81.301,138,100.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-948,Gaspar Rivas Sánchez,80.488,139,99.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1094,Cristian Labbé Martínez,80.488,140,99.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1057,Erika Olivera De La Fuente,78.862,141,97.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1086,Gonzalo Winter Etcheberry,78.049,142,96.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1021,Andrés Celis Montt,77.236,143,95.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1120,María Luisa Cordero Velásquez,77.236,144,95.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1117,Nathalie Castillo Rojas,75.61,145,93.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1101,Mónica Arce Castro,74.797,146,92.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1153,Coca Ericka Ñanco Vásquez,74.797,147,92.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1180,Consuelo Veloso Ávila,73.171,148,90.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-973,Karol Cariola Oliva,64.228,149,79.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1016,Miguel Ángel Calisto Águila,63.415,150,78.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1130,Marta González Olea,61.789,151,76.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1035,Carmen Hertz Cádiz,60.976,152,75.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1104,Chiara Barchiesi Chávez,41.463,153,51.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1063,Catalina Pérez Salinas,14.634,154,18.0,123.0,123,2025-01-06,2025-12-17,,,,100.0,0,,,1
-1154,Mauricio Ojeda Rebolledo,0.0,155,0.0,123.0,123,2025-01-06,2025-12-17,Desaforado y en prisión preventiva,Arresto domiciliario total; inasistencia explicada,Fuente_periodistica,100.0,0,,,1
-1161,Francisco Pulgar Castillo,0.0,156,0.0,123.0,123,2025-01-06,2025-12-17,Desaforado y en prisión preventiva,Arresto domiciliario total; inasistencia explicada,Fuente_periodistica,100.0,0,,,1
+anio,id_diputado,nombre_completo,rank_asistencia,pct_asistencia_ponderada,sesiones_consideradas,pct_cobertura_registro,flag_cobertura,publicar_en_ranking,status_2025,nota_status,fuente_status,no_asiste_total,no_asiste_con_just,no_asiste_sin_just,pct_no_asiste_justificada,missing_no_evaluable,disclaimer_notas,fecha_generacion
+2025,1021,Andrés Celis Montt,1,100.0,95,100.0,ok,1,,,,28,28,0,100.0,0,Inasistencias justificadas: 28/28 (100.0%).,2026-02-27
+2025,1046,Andrés Longton Herrera,2,100.0,123,100.0,ok,1,,,,0,0,0,,0,,2026-02-27
+2025,971,Bernardo Berger Fett,3,100.0,123,100.0,ok,1,,,,0,0,0,,0,,2026-02-27
+2025,1140,Daniel Lilayu Vivanco,4,100.0,121,100.0,ok,1,,,,2,2,0,100.0,0,Inasistencias justificadas: 2/2 (100.0%).,2026-02-27
+2025,1111,Fernando Bórquez Montecinos,5,100.0,123,100.0,ok,1,,,,0,0,0,,0,,2026-02-27
+2025,1034,Félix González Gatica,6,100.0,123,100.0,ok,1,,,,0,0,0,,0,,2026-02-27
+2025,1138,Henry Leal Bizama,7,100.0,121,100.0,ok,1,,,,2,2,0,100.0,0,Inasistencias justificadas: 2/2 (100.0%).,2026-02-27
+2025,1062,Joanna Pérez Olea,8,100.0,119,100.0,ok,1,,,,4,4,0,100.0,0,Inasistencias justificadas: 4/4 (100.0%).,2026-02-27
+2025,999,Jorge Rathgeb Schifferli,9,100.0,123,100.0,ok,1,,,,0,0,0,,0,,2026-02-27
+2025,1019,José Miguel Castro Bascuñán,10,100.0,115,100.0,ok,1,,,,8,8,0,100.0,0,Inasistencias justificadas: 8/8 (100.0%).,2026-02-27
+2025,1002,Leonardo Soto Ferrada,11,100.0,117,100.0,ok,1,,,,6,6,0,100.0,0,Inasistencias justificadas: 6/6 (100.0%).,2026-02-27
+2025,1127,Lorena Fries Monleón,12,100.0,123,100.0,ok,1,,,,0,0,0,,0,,2026-02-27
+2025,1038,Marcos Ilabaca Cerda,13,100.0,117,100.0,ok,1,,,,6,6,0,100.0,0,Inasistencias justificadas: 6/6 (100.0%).,2026-02-27
+2025,1157,Marlene Pérez Cartes,14,100.0,116,100.0,ok,1,,,,7,7,0,100.0,0,Inasistencias justificadas: 7/7 (100.0%).,2026-02-27
+2025,1113,Marta Bravo Salinas,15,100.0,120,100.0,ok,1,,,,3,3,0,100.0,0,Inasistencias justificadas: 3/3 (100.0%).,2026-02-27
+2025,1050,Miguel Mellado Suazo,16,100.0,123,100.0,ok,1,,,,0,0,0,,0,,2026-02-27
+2025,1106,Miguel Ángel Becker Alvear,17,100.0,123,100.0,ok,1,,,,0,0,0,,0,,2026-02-27
+2025,1182,Sebastián Videla Castillo,18,100.0,123,100.0,ok,1,,,,0,0,0,,0,,2026-02-27
+2025,1125,Viviana Delgado Riquelme,19,100.0,115,100.0,ok,1,,,,8,8,0,100.0,0,Inasistencias justificadas: 8/8 (100.0%).,2026-02-27
+2025,1059,Ximena Ossandón Irarrázabal,20,100.0,122,100.0,ok,1,,,,1,1,0,100.0,0,Inasistencias justificadas: 1/1 (100.0%).,2026-02-27
+2025,1144,Christian Matheson Villán,21,99.211,123,100.0,ok,1,,,,1,1,0,100.0,0,Inasistencias justificadas: 1/1 (100.0%).,2026-02-27
+2025,1121,Eduardo Cornejo Lagos,22,99.211,123,100.0,ok,1,,,,1,0,1,0.0,0,Inasistencias justificadas: 0/1 (0.0%).,2026-02-27
+2025,917,Gastón Von Mühlenbrock Zamora,23,99.211,123,100.0,ok,1,,,,1,0,1,0.0,0,Inasistencias justificadas: 0/1 (0.0%).,2026-02-27
+2025,1099,Jaime Araya Guerrero,24,99.211,123,100.0,ok,1,,,,1,1,0,100.0,0,Inasistencias justificadas: 1/1 (100.0%).,2026-02-27
+2025,1132,Jorge Guzmán Zepeda,25,99.211,123,100.0,ok,1,,,,1,1,0,100.0,0,Inasistencias justificadas: 1/1 (100.0%).,2026-02-27
+2025,1170,Luis Sánchez Ossa,26,99.211,123,100.0,ok,1,,,,1,0,1,0.0,0,Inasistencias justificadas: 0/1 (0.0%).,2026-02-27
+2025,1044,Raúl Leiva Carvajal,27,99.211,123,100.0,ok,1,,,,1,0,1,0.0,0,Inasistencias justificadas: 0/1 (0.0%).,2026-02-27
+2025,1051,Claudia Mix Jiménez,28,99.199,121,100.0,ok,1,,,,3,3,0,100.0,0,Inasistencias justificadas: 3/3 (100.0%).,2026-02-27
+2025,1156,Hernán Palma Pérez,29,99.199,121,100.0,ok,1,,,,3,2,1,66.67,0,Inasistencias justificadas: 2/3 (66.67%).,2026-02-27
+2025,1118,Ricardo Cifuentes Lillo,30,99.192,120,100.0,ok,1,,,,4,3,1,75.0,0,Inasistencias justificadas: 3/4 (75.0%).,2026-02-27
+2025,1134,Andrés Jouannet Valderrama,31,99.171,117,100.0,ok,1,,,,7,7,0,100.0,0,Inasistencias justificadas: 7/7 (100.0%).,2026-02-27
+2025,1112,Ana María Bravo Castro,32,99.157,115,100.0,ok,1,,,,9,8,1,88.89,0,Inasistencias justificadas: 8/9 (88.89%).,2026-02-27
+2025,1105,Héctor Barría Angulo,33,99.155,115,100.0,ok,1,,,,9,8,1,88.89,0,Inasistencias justificadas: 8/9 (88.89%).,2026-02-27
+2025,990,Daniel Melo Contreras,34,99.141,113,100.0,ok,1,,,,11,10,1,90.91,0,Inasistencias justificadas: 10/11 (90.91%).,2026-02-27
+2025,1012,Boris Barrera Moreno,35,99.129,111,100.0,ok,1,,,,13,12,1,92.31,0,Inasistencias justificadas: 12/13 (92.31%).,2026-02-27
+2025,1068,Camila Rojas Valderrama,36,99.046,122,100.0,ok,1,,,,2,1,1,50.0,0,Inasistencias justificadas: 1/2 (50.0%).,2026-02-27
+2025,1049,Cosme Mellado Pino,37,99.046,122,100.0,ok,1,,,,2,2,0,100.0,0,Inasistencias justificadas: 2/2 (100.0%).,2026-02-27
+2025,1168,Jorge Saffirio Espinoza,38,99.031,120,100.0,ok,1,,,,4,3,1,75.0,0,Inasistencias justificadas: 3/4 (75.0%).,2026-02-27
+2025,815,Sergio Bobadilla Muñoz,39,99.013,118,100.0,ok,1,,,,6,6,0,100.0,0,Inasistencias justificadas: 6/6 (100.0%).,2026-02-27
+2025,1057,Erika Olivera De La Fuente,40,99.01,98,100.0,ok,1,,,,26,26,0,100.0,0,Inasistencias justificadas: 26/26 (100.0%).,2026-02-27
+2025,1069,Leonidas Romero Sáez,41,99.005,117,100.0,ok,1,,,,7,6,1,85.71,0,Inasistencias justificadas: 6/7 (85.71%).,2026-02-27
+2025,1185,Arturo Barrios Oteíza,42,98.871,86,69.919,cobertura_critica,0,,,,1,0,1,0.0,37,Cobertura de registro 69.919%: el origen no reporta todas las sesiones en ventana activa. El % de asistencia se calcula excluyendo casos No evaluables (missing o rebajaAsistencia). | No evaluable por subregistro del origen en 37 sesiones (se excluye del denominador). | Inasistencias justificadas: 0/1 (0.0%).,2026-02-27
+2025,1165,Agustín Romero Leiva,43,98.423,123,100.0,ok,1,,,,2,2,0,100.0,0,Inasistencias justificadas: 2/2 (100.0%).,2026-02-27
+2025,1126,Felipe Donoso Castro,44,98.423,123,100.0,ok,1,,,,2,2,0,100.0,0,Inasistencias justificadas: 2/2 (100.0%).,2026-02-27
+2025,953,Frank Sauerbaum Muñoz,45,98.423,123,100.0,ok,1,,,,2,2,0,100.0,0,Inasistencias justificadas: 2/2 (100.0%).,2026-02-27
+2025,1133,Juan Irarrázaval Rossel,46,98.423,123,100.0,ok,1,,,,2,2,0,100.0,0,Inasistencias justificadas: 2/2 (100.0%).,2026-02-27
+2025,1174,Marco Antonio Sulantay Olivares,47,98.423,123,100.0,ok,1,,,,2,1,1,50.0,0,Inasistencias justificadas: 1/2 (50.0%).,2026-02-27
+2025,1177,Carolina Tello Rojas,48,98.379,120,100.0,ok,1,,,,5,3,2,60.0,0,Inasistencias justificadas: 3/5 (60.0%).,2026-02-27
+2025,1081,Francisco Undurraga Gazitúa,49,98.371,119,100.0,ok,1,,,,6,6,0,100.0,0,Inasistencias justificadas: 6/6 (100.0%).,2026-02-27
+2025,1009,Jorge Alessandri Vergara,50,98.366,119,100.0,ok,1,,,,6,4,2,66.67,0,Inasistencias justificadas: 4/6 (66.67%).,2026-02-27
+2025,975,Daniella Cicardini Milla,51,98.265,123,100.0,ok,1,,,,2,0,2,0.0,0,Inasistencias justificadas: 0/2 (0.0%).,2026-02-27
+2025,1142,Daniel Manouchehri Lobos,52,98.248,122,100.0,ok,1,,,,3,2,1,66.67,0,Inasistencias justificadas: 2/3 (66.67%).,2026-02-27
+2025,1184,Roberto Celedón Fernández,53,98.22,120,100.0,ok,1,Reemplazante,Asume tras fallecimiento de Bulnes (fin 2024),Camara.cl,2,0,2,0.0,0,Status 2025: Reemplazante — Asume tras fallecimiento de Bulnes (fin 2024) | Inasistencias justificadas: 0/2 (0.0%).,2026-02-27
+2025,1146,José Carlos Meza Pereira,54,98.176,117,100.0,ok,1,,,,8,7,1,87.5,0,Inasistencias justificadas: 7/8 (87.5%).,2026-02-27
+2025,1015,Jorge Brito Hasbún,55,98.142,115,100.0,ok,1,,,,10,8,2,80.0,0,Inasistencias justificadas: 8/10 (80.0%).,2026-02-27
+2025,1104,Chiara Barchiesi Chávez,56,97.786,52,100.0,ok,1,Prenatal y postnatal,"""Pre y postnatal; inasistencia justificada""",Fuente_periodistica,72,71,1,98.61,0,"Status 2025: Prenatal y postnatal — ""Pre y postnatal; inasistencia justificada"" | Inasistencias justificadas: 71/72 (98.61%).",2026-02-27
+2025,1103,Danisa Astudillo Peiretti,57,97.634,123,100.0,ok,1,,,,3,1,2,33.33,0,Inasistencias justificadas: 1/3 (33.33%).,2026-02-27
+2025,973,Karol Cariola Oliva,58,97.596,81,100.0,ok,1,,,,44,43,1,97.73,0,Inasistencias justificadas: 43/44 (97.73%).,2026-02-27
+2025,1162,Matías Ramírez Pascal,59,97.577,120,100.0,ok,1,,,,6,5,1,83.33,0,Inasistencias justificadas: 5/6 (83.33%).,2026-02-27
+2025,1075,Diego Schalper Sepúlveda,60,97.573,120,100.0,ok,1,,,,6,5,1,83.33,0,Inasistencias justificadas: 5/6 (83.33%).,2026-02-27
+2025,1065,Guillermo Ramírez Diez,61,97.557,119,100.0,ok,1,,,,7,7,0,100.0,0,Inasistencias justificadas: 7/7 (100.0%).,2026-02-27
+2025,1096,María Candelaria Acevedo Sáez,62,97.553,119,100.0,ok,1,,,,7,5,2,71.43,0,Inasistencias justificadas: 5/7 (71.43%).,2026-02-27
+2025,1149,Carla Morales Maldonado,63,97.529,118,100.0,ok,1,,,,8,8,0,100.0,0,Inasistencias justificadas: 8/8 (100.0%).,2026-02-27
+2025,1013,Alejandro Bernales Maldonado,64,97.476,123,100.0,ok,1,,,,3,2,1,66.67,0,Inasistencias justificadas: 2/3 (66.67%).,2026-02-27
+2025,1169,Clara Sagardía Cabezas,65,97.476,123,100.0,ok,1,,,,3,3,0,100.0,0,Inasistencias justificadas: 3/3 (100.0%).,2026-02-27
+2025,1175,Cristián Tapia Ramos,66,97.476,123,100.0,ok,1,,,,3,0,3,0.0,0,Inasistencias justificadas: 0/3 (0.0%).,2026-02-27
+2025,1067,Hugo Rey Martínez,67,97.466,115,100.0,ok,1,,,,11,8,3,72.73,0,Inasistencias justificadas: 8/11 (72.73%).,2026-02-27
+2025,803,René Alinco Bustos,68,97.456,122,100.0,ok,1,,,,4,1,3,25.0,0,Inasistencias justificadas: 1/4 (25.0%).,2026-02-27
+2025,1179,Alberto Undurraga Vicuña,69,97.432,121,100.0,ok,1,,,,5,4,1,80.0,0,Inasistencias justificadas: 4/5 (80.0%).,2026-02-27
+2025,1017,Álvaro Carter Fernández,70,97.432,121,100.0,ok,1,,,,5,3,2,60.0,0,Inasistencias justificadas: 3/5 (60.0%).,2026-02-27
+2025,1145,Karen Medina Vásquez,71,97.423,113,100.0,ok,1,,,,13,12,1,92.31,0,Inasistencias justificadas: 12/13 (92.31%).,2026-02-27
+2025,1040,Harry Jürgensen Rundshagen,72,97.394,119,100.0,ok,1,,,,7,7,0,100.0,0,Inasistencias justificadas: 7/7 (100.0%).,2026-02-27
+2025,1077,Raúl Soto Mardones,73,97.39,119,100.0,ok,1,,,,7,7,0,100.0,0,Inasistencias justificadas: 7/7 (100.0%).,2026-02-27
+2025,1166,Natalia Romero Talguia,74,97.368,118,100.0,ok,1,,,,8,6,2,75.0,0,Inasistencias justificadas: 6/8 (75.0%).,2026-02-27
+2025,1058,Maite Orsini Pascal,75,97.279,114,100.0,ok,1,,,,12,9,3,75.0,0,Inasistencias justificadas: 9/12 (75.0%).,2026-02-27
+2025,1155,Rubén Darío Oyarzo Figueroa,76,97.274,114,100.0,ok,1,,,,12,10,2,83.33,0,Inasistencias justificadas: 10/12 (83.33%).,2026-02-27
+2025,1163,Marcia Raphael Mora,77,97.181,117,100.0,ok,1,,,,9,7,2,77.78,0,Inasistencias justificadas: 7/9 (77.78%).,2026-02-27
+2025,1122,Luis Alberto Cuello Peña y Lillo,78,97.161,123,100.0,ok,1,,,,3,0,3,0.0,0,Inasistencias justificadas: 0/3 (0.0%).,2026-02-27
+2025,1160,Alejandra Placencia Cabello,79,97.015,117,100.0,ok,1,,,,9,9,0,100.0,0,Inasistencias justificadas: 9/9 (100.0%).,2026-02-27
+2025,1107,María Francisca Bello Campos,80,96.909,107,100.0,ok,1,,,,19,17,2,89.47,0,Inasistencias justificadas: 17/19 (89.47%).,2026-02-27
+2025,1183,Flor Weisse Novoa,81,96.795,121,100.0,ok,1,,,,6,3,3,50.0,0,Inasistencias justificadas: 3/6 (50.0%).,2026-02-27
+2025,1116,Felipe Camaño Cárdenas,82,96.716,118,100.0,ok,1,,,,9,8,1,88.89,0,Inasistencias justificadas: 8/9 (88.89%).,2026-02-27
+2025,1159,Lorena Pizarro Sierra,83,96.716,118,100.0,ok,1,,,,9,7,2,77.78,0,Inasistencias justificadas: 7/9 (77.78%).,2026-02-27
+2025,1110,Carlos Bianchi Chelech,84,96.688,123,100.0,ok,1,,,,4,0,4,0.0,0,Inasistencias justificadas: 0/4 (0.0%).,2026-02-27
+2025,1143,Cristóbal Martínez Ramírez,85,96.688,123,100.0,ok,1,,,,4,2,2,50.0,0,Inasistencias justificadas: 2/4 (50.0%).,2026-02-27
+2025,1028,Eduardo Durán Salinas,86,96.688,123,100.0,ok,1,,,,4,3,1,75.0,0,Inasistencias justificadas: 3/4 (75.0%).,2026-02-27
+2025,1178,Héctor Ulloa Aguilera,87,96.688,123,100.0,ok,1,,,,4,3,1,75.0,0,Inasistencias justificadas: 3/4 (75.0%).,2026-02-27
+2025,1139,Enrique Lee Flores,88,96.661,122,100.0,ok,1,,,,5,1,4,20.0,0,Inasistencias justificadas: 1/5 (20.0%).,2026-02-27
+2025,1173,Daniela Serrano Salazar,89,96.635,121,100.0,ok,1,,,,6,3,3,50.0,0,Inasistencias justificadas: 3/6 (50.0%).,2026-02-27
+2025,1151,Camila Musante Müller,90,96.616,115,100.0,ok,1,,,,12,9,3,75.0,0,Inasistencias justificadas: 9/12 (75.0%).,2026-02-27
+2025,1087,Gael Yeomans Araya,91,96.602,120,100.0,ok,1,,,,7,6,1,85.71,0,Inasistencias justificadas: 6/7 (85.71%).,2026-02-27
+2025,1167,Jaime Sáez Quiroz,92,96.502,122,100.0,ok,1,,,,5,5,0,100.0,0,Inasistencias justificadas: 5/5 (100.0%).,2026-02-27
+2025,1054,Francesca Muñoz González,93,96.392,113,100.0,ok,1,,,,14,14,0,100.0,0,Inasistencias justificadas: 14/14 (100.0%).,2026-02-27
+2025,74,Jaime Naranjo Ortiz,94,96.372,123,100.0,ok,1,,,,4,1,3,25.0,0,Inasistencias justificadas: 1/4 (25.0%).,2026-02-27
+2025,1073,Juan Santana Castillo,95,96.372,123,100.0,ok,1,,,,4,0,4,0.0,0,Inasistencias justificadas: 0/4 (0.0%).,2026-02-27
+2025,1129,Andrés Giordano Salazar,96,96.263,109,100.0,ok,1,,,,18,18,0,100.0,0,Inasistencias justificadas: 18/18 (100.0%).,2026-02-27
+2025,1074,Marisela Santibáñez Novoa,97,96.257,109,100.0,ok,1,,,,18,14,4,77.78,0,Inasistencias justificadas: 14/18 (77.78%).,2026-02-27
+2025,1031,Juan Fuenzalida Cobo,98,95.955,120,100.0,ok,1,,,,8,6,2,75.0,0,Inasistencias justificadas: 6/8 (75.0%).,2026-02-27
+2025,1056,Emilia Nuyado Ancapichún,99,95.899,123,100.0,ok,1,,,,5,5,0,100.0,0,Inasistencias justificadas: 5/5 (100.0%).,2026-02-27
+2025,1003,Renzo Trisotti Martínez,100,95.899,123,100.0,ok,1,,,,5,3,2,60.0,0,Inasistencias justificadas: 3/5 (60.0%).,2026-02-27
+2025,1119,Sara Concha Smith,101,95.765,119,100.0,ok,1,,,,9,7,2,77.78,0,Inasistencias justificadas: 7/9 (77.78%).,2026-02-27
+2025,1171,Emilia Schneider Videla,102,95.741,123,100.0,ok,1,,,,5,3,2,60.0,0,Inasistencias justificadas: 3/5 (60.0%).,2026-02-27
+2025,1027,Jorge Durán Espinoza,103,95.741,114,100.0,ok,1,,,,14,13,1,92.86,0,Inasistencias justificadas: 13/14 (92.86%).,2026-02-27
+2025,1053,Cristhian Moreira Barros,104,95.724,118,100.0,ok,1,,,,10,10,0,100.0,0,Inasistencias justificadas: 10/10 (100.0%).,2026-02-27
+2025,1048,Carolina Marzán Pinto,105,95.695,117,100.0,ok,1,,,,11,9,2,81.82,0,Inasistencias justificadas: 9/11 (81.82%).,2026-02-27
+2025,1148,Javiera Morales Alvarado,106,95.595,119,100.0,ok,1,,,,9,8,1,88.89,0,Inasistencias justificadas: 8/9 (88.89%).,2026-02-27
+2025,1076,Alexis Sepúlveda Soto,107,95.31,116,100.0,ok,1,,,,12,9,3,75.0,0,Inasistencias justificadas: 9/12 (75.0%).,2026-02-27
+2025,1131,Mauro González Villarroel,108,95.268,123,100.0,ok,1,,,,6,5,1,83.33,0,Inasistencias justificadas: 5/6 (83.33%).,2026-02-27
+2025,1070,Patricio Rosas Barrientos,109,95.192,121,100.0,ok,1,,,,8,7,1,87.5,0,Inasistencias justificadas: 7/8 (87.5%).,2026-02-27
+2025,1100,Cristián Araya Lerdo de Tejada,110,94.91,118,100.0,ok,1,,,,11,10,1,90.91,0,Inasistencias justificadas: 10/11 (90.91%).,2026-02-27
+2025,1102,Roberto Arroyo Muñoz,111,94.901,118,100.0,ok,1,,,,11,11,0,100.0,0,Inasistencias justificadas: 11/11 (100.0%).,2026-02-27
+2025,1108,Juan Carlos Beltrán Silva,112,94.807,116,100.0,ok,1,,,,13,9,4,69.23,0,Inasistencias justificadas: 9/13 (69.23%).,2026-02-27
+2025,1158,Víctor Alejandro Pino Fuentes,113,94.807,116,100.0,ok,1,,,,13,10,3,76.92,0,Inasistencias justificadas: 10/13 (76.92%).,2026-02-27
+2025,1181,Nelson Venegas Salazar,114,94.745,122,100.0,ok,1,,,,7,4,3,57.14,0,Inasistencias justificadas: 4/7 (57.14%).,2026-02-27
+2025,1097,Eric Aedo Jeldres,115,94.523,110,100.0,ok,1,,,,19,14,5,73.68,0,Inasistencias justificadas: 14/19 (73.68%).,2026-02-27
+2025,1039,Pamela Jiles Moreno,116,94.346,120,100.0,ok,1,,,,10,3,7,30.0,0,Inasistencias justificadas: 3/10 (30.0%).,2026-02-27
+2025,1022,Sofía Cid Versalovic,117,94.346,110,100.0,ok,1,,,,19,19,0,100.0,0,Inasistencias justificadas: 19/19 (100.0%).,2026-02-27
+2025,1137,Tomás Lagomarsino Guzmán,118,94.322,123,100.0,ok,1,,,,7,2,5,28.57,0,Inasistencias justificadas: 2/7 (28.57%).,2026-02-27
+2025,1082,Cristóbal Urruticoechea Ríos,119,94.164,123,100.0,ok,1,,,,7,6,1,85.71,0,Inasistencias justificadas: 6/7 (85.71%).,2026-02-27
+2025,1114,Félix Bugueño Sotelo,120,94.164,123,100.0,ok,1,,,,7,6,1,85.71,0,Inasistencias justificadas: 6/7 (85.71%).,2026-02-27
+2025,948,Gaspar Rivas Sánchez,121,94.074,105,100.0,ok,1,,,,24,18,6,75.0,0,Inasistencias justificadas: 18/24 (75.0%).,2026-02-27
+2025,1172,Stephan Schubert Rubio,122,94.03,117,100.0,ok,1,,,,13,12,1,92.31,0,Inasistencias justificadas: 12/13 (92.31%).,2026-02-27
+2025,1147,Helia Molina Milman,123,93.99,116,100.0,ok,1,,,,14,10,4,71.43,0,Inasistencias justificadas: 10/14 (71.43%).,2026-02-27
+2025,1037,Diego Ibáñez Cotroneo,124,93.854,117,100.0,ok,1,,,,13,12,1,92.31,0,Inasistencias justificadas: 12/13 (92.31%).,2026-02-27
+2025,1153,Coca Ericka Ñanco Vásquez,125,92.745,99,100.0,ok,1,,,,31,28,3,90.32,0,Inasistencias justificadas: 28/31 (90.32%).,2026-02-27
+2025,1128,Ana María Gazmuri Vieira,126,92.657,111,100.0,ok,1,,,,20,16,4,80.0,0,Inasistencias justificadas: 16/20 (80.0%).,2026-02-27
+2025,1152,Gloria Naveillan Arriagada,127,92.639,108,100.0,ok,1,,,,23,20,3,86.96,0,Inasistencias justificadas: 20/23 (86.96%).,2026-02-27
+2025,989,Joaquín Lavín León,128,92.587,123,100.0,ok,1,,,,9,4,5,44.44,0,Inasistencias justificadas: 4/9 (44.44%).,2026-02-27
+2025,1098,Yovana Ahumada Palma,129,92.246,120,100.0,ok,1,,,,12,7,5,58.33,0,Inasistencias justificadas: 7/12 (58.33%).,2026-02-27
+2025,1030,Camila Flores Oporto,130,91.598,118,100.0,ok,1,,,,15,12,3,80.0,0,Inasistencias justificadas: 12/15 (80.0%).,2026-02-27
+2025,1025,Catalina Del Real Mihovilovic,131,91.152,116,100.0,ok,1,,,,17,12,5,70.59,0,Inasistencias justificadas: 12/17 (70.59%).,2026-02-27
+2025,1141,Luis Malla Valenzuela,132,91.009,123,100.0,ok,1,,,,11,6,5,54.55,0,Inasistencias justificadas: 6/11 (54.55%).,2026-02-27
+2025,976,Juan Antonio Coloma Álamos,133,90.779,122,100.0,ok,1,,,,12,7,5,58.33,0,Inasistencias justificadas: 7/12 (58.33%).,2026-02-27
+2025,1109,Gustavo Benavente Vergara,134,90.536,123,100.0,ok,1,,,,11,9,2,81.82,0,Inasistencias justificadas: 9/11 (81.82%).,2026-02-27
+2025,1035,Carmen Hertz Cádiz,135,90.376,83,100.0,ok,1,,,,48,46,2,95.83,0,Inasistencias justificadas: 46/48 (95.83%).,2026-02-27
+2025,1176,Hotuiti Teao Drago,136,90.302,122,100.0,ok,1,,,,13,12,1,92.31,0,Inasistencias justificadas: 12/13 (92.31%).,2026-02-27
+2025,1117,Nathalie Castillo Rojas,137,89.179,104,100.0,ok,1,,,,30,22,8,73.33,0,Inasistencias justificadas: 22/30 (73.33%).,2026-02-27
+2025,1124,Tomás De Rementería Venegas,138,89.157,32,100.0,ok,1,Nombrado_senador,Deja Cámara por nombramiento en Senado,Camara.cl,6,3,3,50.0,0,Status 2025: Nombrado_senador — Deja Cámara por nombramiento en Senado | Inasistencias justificadas: 3/6 (50.0%).,2026-02-27
+2025,991,Vlado Mirosevic Verdugo,139,88.925,121,100.0,ok,1,,,,15,8,7,53.33,0,Inasistencias justificadas: 8/15 (53.33%).,2026-02-27
+2025,1136,Paula Labra Besserer,140,88.368,120,100.0,ok,1,,,,17,15,2,88.24,0,Inasistencias justificadas: 15/17 (88.24%).,2026-02-27
+2025,1130,Marta González Olea,141,88.235,86,100.0,ok,1,,,,47,37,10,78.72,0,Inasistencias justificadas: 37/47 (78.72%).,2026-02-27
+2025,1135,Johannes Kaiser Barents-Von Hohenhagen,142,88.013,123,100.0,ok,1,,,,15,13,2,86.67,0,Inasistencias justificadas: 13/15 (86.67%).,2026-02-27
+2025,1123,Gonzalo De la Carrera Correa,143,88.007,115,100.0,ok,1,,,,21,16,5,76.19,0,Inasistencias justificadas: 16/21 (76.19%).,2026-02-27
+2025,1120,María Luisa Cordero Velásquez,144,87.748,108,100.0,ok,1,,,,28,25,3,89.29,0,Inasistencias justificadas: 25/28 (89.29%).,2026-02-27
+2025,1036,Tomás Hirsch Goldschmidt,145,87.48,121,100.0,ok,1,,,,17,16,1,94.12,0,Inasistencias justificadas: 16/17 (94.12%).,2026-02-27
+2025,1164,Marcela Riquelme Aliaga,146,87.379,120,100.0,ok,1,,,,18,8,10,44.44,0,Inasistencias justificadas: 8/18 (44.44%).,2026-02-27
+2025,1150,Benjamín Moreno Bascur,147,87.066,123,100.0,ok,1,,,,16,13,3,81.25,0,Inasistencias justificadas: 13/16 (81.25%).,2026-02-27
+2025,872,Jaime Mulet Martínez,148,86.386,120,100.0,ok,1,,,,19,14,5,73.68,0,Inasistencias justificadas: 14/19 (73.68%).,2026-02-27
+2025,1180,Consuelo Veloso Ávila,149,86.33,104,100.0,ok,1,,,,33,31,2,93.94,0,Inasistencias justificadas: 31/33 (93.94%).,2026-02-27
+2025,1101,Mónica Arce Castro,150,85.507,107,100.0,ok,1,,,,31,21,10,67.74,0,Inasistencias justificadas: 21/31 (67.74%).,2026-02-27
+2025,1094,Cristian Labbé Martínez,151,82.686,120,100.0,ok,1,,,,24,15,9,62.5,0,Inasistencias justificadas: 15/24 (62.5%).,2026-02-27
+2025,1086,Gonzalo Winter Etcheberry,152,81.954,117,100.0,ok,1,,,,27,21,6,77.78,0,Inasistencias justificadas: 21/27 (77.78%).,2026-02-27
+2025,1016,Miguel Ángel Calisto Águila,153,65.416,119,100.0,ok,1,,,,45,23,22,51.11,0,Inasistencias justificadas: 23/45 (51.11%).,2026-02-27
+2025,1063,Catalina Pérez Salinas,154,14.826,123,100.0,ok,1,,,,105,101,4,96.19,0,Inasistencias justificadas: 101/105 (96.19%).,2026-02-27
+2025,1161,Francisco Pulgar Castillo,155,0.0,123,100.0,ok,1,Desaforado y en prisión preventiva,Arresto domiciliario total; inasistencia explicada,Fuente_periodistica,123,123,0,100.0,0,Status 2025: Desaforado y en prisión preventiva — Arresto domiciliario total; inasistencia explicada | Inasistencias justificadas: 123/123 (100.0%).,2026-02-27
+2025,1154,Mauricio Ojeda Rebolledo,156,0.0,123,100.0,ok,1,Desaforado y en prisión preventiva,Arresto domiciliario total; inasistencia explicada,Fuente_periodistica,123,123,0,100.0,0,Status 2025: Desaforado y en prisión preventiva — Arresto domiciliario total; inasistencia explicada | Inasistencias justificadas: 123/123 (100.0%).,2026-02-27
